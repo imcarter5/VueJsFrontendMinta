@@ -2,8 +2,8 @@ import { createApp } from "vue";
 import App from "./App.vue";
 import { createRouter, createWebHistory } from "vue-router";
 
-import OpenPageComponent from "components/OpenPage.vue";
-import IngatlanKinalatComponent from "components/IngatlanKinalat.vue";
+import OpenPageComponent from "./components/OpenPage.vue";
+import IngatlanKinalatComponent from "./components/IngatlanKinalat.vue";
 
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/js/bootstrap";
